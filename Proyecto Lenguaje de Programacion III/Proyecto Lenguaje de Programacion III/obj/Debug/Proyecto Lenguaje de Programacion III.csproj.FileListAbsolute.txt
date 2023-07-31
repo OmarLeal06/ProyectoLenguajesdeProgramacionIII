@@ -1,0 +1,15 @@
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\bin\Debug\Proyecto Lenguaje de Programacion III.exe.config
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\bin\Debug\Proyecto Lenguaje de Programacion III.exe
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\bin\Debug\Proyecto Lenguaje de Programacion III.pdb
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.AssemblyReference.cache
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.SuggestedBindingRedirects.cache
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.Properties.Resources.resources
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.GenerateResource.cache
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.CoreCompileInputs.cache
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.exe
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.pdb
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.Form1.resources
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormCentros.resources
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormDirectivos.resources
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormEmpleados.resources
+C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormPuestos.resources
