@@ -13,3 +13,18 @@ C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Prog
 C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormDirectivos.resources
 C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormEmpleados.resources
 C:\Users\jugge\source\repos\Aprender-csharp-desde-cero\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormPuestos.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\bin\Debug\Proyecto Lenguaje de Programacion III.exe.config
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\bin\Debug\Proyecto Lenguaje de Programacion III.exe
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\bin\Debug\Proyecto Lenguaje de Programacion III.pdb
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.AssemblyReference.cache
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.SuggestedBindingRedirects.cache
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.Form1.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormCentros.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormDirectivos.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormEmpleados.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.FormPuestos.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto_Lenguaje_de_Programacion_III.Properties.Resources.resources
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.GenerateResource.cache
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.csproj.CoreCompileInputs.cache
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.exe
+C:\Users\mx90089828\source\repos\Aprender a usar C#\Proyecto Lenguaje de Programacion III\Proyecto Lenguaje de Programacion III\obj\Debug\Proyecto Lenguaje de Programacion III.pdb

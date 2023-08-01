@@ -14,7 +14,7 @@ namespace Proyecto_Lenguaje_de_Programacion_III
     public partial class Form1 : Form
     {
         //Cadena de Conexion
-        string cadena = "Data Source=LAPTOP-L79D624G\\SQLEXPRESS;Initial Catalog=Kamil;Integrated Security=True";
+        string cadena = "Data Source=126013TP03CAT\\SQLEXPRESS02;Initial Catalog=Kamil;Integrated Security=True";
         public SqlConnection Conectarbd = new SqlConnection();
         public Form1()
         {

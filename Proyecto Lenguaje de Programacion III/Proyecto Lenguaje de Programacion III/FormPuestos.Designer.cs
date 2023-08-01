@@ -29,29 +29,29 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPuestos));
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dgvPuestos = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnBuscarPuesto = new System.Windows.Forms.Button();
             this.btnEliminarPuesto = new System.Windows.Forms.Button();
             this.btnModificarPuesto = new System.Windows.Forms.Button();
             this.btnAgregarPuesto = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtbDescripcionPuesto = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtbNombrePuesto = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtbNumeroPuesto = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvPuestos)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // dataGridView1
+            // dgvPuestos
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 271);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(776, 197);
-            this.dataGridView1.TabIndex = 3;
+            this.dgvPuestos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvPuestos.Location = new System.Drawing.Point(12, 271);
+            this.dgvPuestos.Name = "dgvPuestos";
+            this.dgvPuestos.Size = new System.Drawing.Size(776, 197);
+            this.dgvPuestos.TabIndex = 3;
             // 
             // groupBox1
             // 
@@ -59,11 +59,11 @@
             this.groupBox1.Controls.Add(this.btnEliminarPuesto);
             this.groupBox1.Controls.Add(this.btnModificarPuesto);
             this.groupBox1.Controls.Add(this.btnAgregarPuesto);
-            this.groupBox1.Controls.Add(this.textBox3);
+            this.groupBox1.Controls.Add(this.txtbDescripcionPuesto);
             this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.textBox2);
+            this.groupBox1.Controls.Add(this.txtbNombrePuesto);
             this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.txtbNumeroPuesto);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
@@ -80,6 +80,7 @@
             this.btnBuscarPuesto.TabIndex = 11;
             this.btnBuscarPuesto.Text = "Buscar";
             this.btnBuscarPuesto.UseVisualStyleBackColor = true;
+            this.btnBuscarPuesto.Click += new System.EventHandler(this.btnBuscarPuesto_Click);
             // 
             // btnEliminarPuesto
             // 
@@ -89,6 +90,7 @@
             this.btnEliminarPuesto.TabIndex = 10;
             this.btnEliminarPuesto.Text = "Eliminar";
             this.btnEliminarPuesto.UseVisualStyleBackColor = true;
+            this.btnEliminarPuesto.Click += new System.EventHandler(this.btnEliminarPuesto_Click);
             // 
             // btnModificarPuesto
             // 
@@ -98,6 +100,7 @@
             this.btnModificarPuesto.TabIndex = 9;
             this.btnModificarPuesto.Text = "Modificar";
             this.btnModificarPuesto.UseVisualStyleBackColor = true;
+            this.btnModificarPuesto.Click += new System.EventHandler(this.btnModificarPuesto_Click);
             // 
             // btnAgregarPuesto
             // 
@@ -107,13 +110,14 @@
             this.btnAgregarPuesto.TabIndex = 8;
             this.btnAgregarPuesto.Text = "Agregar";
             this.btnAgregarPuesto.UseVisualStyleBackColor = true;
+            this.btnAgregarPuesto.Click += new System.EventHandler(this.btnAgregarPuesto_Click);
             // 
-            // textBox3
+            // txtbDescripcionPuesto
             // 
-            this.textBox3.Location = new System.Drawing.Point(9, 133);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(265, 20);
-            this.textBox3.TabIndex = 7;
+            this.txtbDescripcionPuesto.Location = new System.Drawing.Point(9, 133);
+            this.txtbDescripcionPuesto.Name = "txtbDescripcionPuesto";
+            this.txtbDescripcionPuesto.Size = new System.Drawing.Size(265, 20);
+            this.txtbDescripcionPuesto.TabIndex = 7;
             // 
             // label3
             // 
@@ -124,12 +128,12 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Descripción del Puesto:";
             // 
-            // textBox2
+            // txtbNombrePuesto
             // 
-            this.textBox2.Location = new System.Drawing.Point(9, 85);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(265, 20);
-            this.textBox2.TabIndex = 5;
+            this.txtbNombrePuesto.Location = new System.Drawing.Point(9, 85);
+            this.txtbNombrePuesto.Name = "txtbNombrePuesto";
+            this.txtbNombrePuesto.Size = new System.Drawing.Size(265, 20);
+            this.txtbNombrePuesto.TabIndex = 5;
             // 
             // label2
             // 
@@ -140,12 +144,13 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Nombre de Puesto:";
             // 
-            // textBox1
+            // txtbNumeroPuesto
             // 
-            this.textBox1.Location = new System.Drawing.Point(6, 46);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(265, 20);
-            this.textBox1.TabIndex = 3;
+            this.txtbNumeroPuesto.Location = new System.Drawing.Point(6, 46);
+            this.txtbNumeroPuesto.Name = "txtbNumeroPuesto";
+            this.txtbNumeroPuesto.Size = new System.Drawing.Size(265, 20);
+            this.txtbNumeroPuesto.TabIndex = 3;
+            this.txtbNumeroPuesto.TextChanged += new System.EventHandler(this.txtbNumeroPuesto_TextChanged);
             // 
             // label1
             // 
@@ -161,12 +166,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 480);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dgvPuestos);
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormPuestos";
             this.Text = "Menú Puestos";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvPuestos)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -175,17 +180,17 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dgvPuestos;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button btnBuscarPuesto;
         private System.Windows.Forms.Button btnEliminarPuesto;
         private System.Windows.Forms.Button btnModificarPuesto;
         private System.Windows.Forms.Button btnAgregarPuesto;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtbDescripcionPuesto;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtbNombrePuesto;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtbNumeroPuesto;
         private System.Windows.Forms.Label label1;
     }
 }
